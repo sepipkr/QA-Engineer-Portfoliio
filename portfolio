@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Sepideh Pakseresht — Test Engineer</title>
+  <title>Sepideh Pakseresht — QA Engineer</title>
   <link rel="preconnect" href="https://fonts.googleapis.com"/>
   <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Mono:wght@300;400;500&display=swap" rel="stylesheet"/>
   <style>
@@ -201,7 +201,7 @@
         <span class="cursor"></span>
       </div>
       <p class="hero-desc">
-        I'm a Test Engineer who genuinely loves the process of building quality from the ground up.
+        I'm a QA Engineer who genuinely loves the process of building quality from the ground up.
         I work best when I'm close to the team — understanding the <em>why</em> behind every feature,
         not just the what.
       </p>
